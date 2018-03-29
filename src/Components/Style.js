@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './style.css';
 
 const linkStyle = {
     marginRight: 15,
@@ -12,5 +13,4 @@ const linkStyle = {
 
       </div>
   )
-  
   export default Style
